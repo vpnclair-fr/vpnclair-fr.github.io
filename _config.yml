@@ -1,0 +1,28 @@
+title: Comparatif VPN indépendant
+description: Guide VPN en français – Débloquez Netflix, protégez votre vie privée et jouez sans latence sur les réseaux Wi-Fi publics
+show_downloads: true
+remote_theme: tuur29/pages-themes-cayman
+
+color:
+  header: "#111827"          # Bleu nuit / anthracite (très sérieux)
+  gradient_left: "#1e293b"   # Bleu ardoise
+  gradient_right: "#0f766e"  # Vert pétrole (sécurité / confidentialité)
+
+logo_url: https://github.githubassets.com/images/icons/emoji/globe.png
+
+syntax_theme: https://stylishthemes.github.io/Syntax-Themes/pygments/css-github/pygments-monokai.css
+
+buttons:
+  zip_url: https://github.com/vpnclair-fr/vpnclair-fr.github.io
+  zip_title: Présentation du comparatif VPN
+  zip_hide: false
+  tar_hide: true
+  github_hide: true
+
+permalink: /:path/
+
+collections:
+  fr:
+    output: true
+  en:
+    output: true
