@@ -760,7 +760,7 @@ Les serveurs **virtuels** = simulations logicielles hébergées ailleurs (utilis
 La plupart des utilisateurs ne le remarquent même pas — c’est courant chez les top providers pour une couverture mondiale.
 
 #### Serveurs optimisés streaming (multimédia)
-Ces serveurs sont spécialement tunés pour le haut débit : Netflix, YouTube, Disney+, HBO Max, etc. Ils gèrent un trafic massif sans bridage, et beaucoup utilisent l’obfuscation pour masquer l’usage VPN — aide à contourner les blocages streaming.  
+Ces serveurs sont spécialement tunés pour le haut débit : Netflix, YouTube, Disney+, HBO Max, etc. Ils gèrent un trafic massif sans bridage, et beaucoup utilisent l’obfuscation pour masquer l’usage VPN — peut aider avec certains blocages de streaming.  
 Tous nos choix (surtout ExpressVPN et Surfshark) ont des serveurs dédiés streaming — sélection auto ou étiquetés dans l’app.
 
 #### Serveurs compatibles P2P / Torrent
@@ -811,7 +811,7 @@ Le mode NoBorders/Camouflage de Surfshark gère la plupart des blocages, mais de
 2. **Activez Camouflage/NoBorders** : Paramètres > Avancé.
 3. **Serveur le plus rapide** : Auto-connect ou switch manuel.
 4. **Protocole** : WireGuard → OpenVPN UDP.
-5. **Live chat** : Très réactif pour tweaks custom.
+5. **Live chat** : Très réactif pour obtenir des réglages adaptés à votre connexion.
 
 ### Expiration après 15 mois – Réutiliser la réduction ExpressVPN ?
 L’offre 12+3 mois gratuits est pour nouveaux comptes seulement — renouvellements au plein tarif.  
@@ -973,7 +973,7 @@ Les VPN gratuits paraissent tentants, mais ils ont presque toujours des inconvé
 ## Pourquoi construire son propre VPN n’est pas recommandé
 <a name="why-not-build-your-own-vpn"></a>
 
-Monter un VPN perso (ex. sur VPS DigitalOcean/AWS avec OpenVPN/WireGuard) semble malin pour le contrôle — mais c’est rarement pratique pour contourner les restrictions.
+Monter un VPN perso (ex. sur VPS DigitalOcean/AWS avec OpenVPN/WireGuard) semble malin pour le contrôle — mais c’est rarement pratique pour un usage streaming, voyage ou confidentialité au quotidien.
 
 - **Complexité technique** : Besoin de connaissances poussées en setup serveur, chiffrement, protocoles, règles firewall, gestion certificats et maintenance continue. Une mauvaise config = fuites ou blocages.
 - **Risques légaux** : Dans zones restreintes, un VPN perso peut attirer plus d’attention qu’un commercial — certaines lois ciblent explicitement les « services VPN non autorisés ».
@@ -1033,7 +1033,7 @@ Le contexte reste différent des réseaux fortement réglementés, mais les auto
 **Oui, un VPN est recommandé** pour protéger votre confidentialité contre le traçage potentiel par FAI/gouvernement/hackers — surtout pour journalistes, activistes ou toute personne discutant de sujets sensibles. Il aide aussi à accéder à des news/streaming internationaux sans interférence.
 
 ### A-t-on besoin d’un VPN à Taïwan ?
-Taïwan bénéficie d’un des internets les plus libres au monde — pas de censure généralisée, vitesses rapides et droits numériques solides. Pour la navigation quotidienne, streaming, réseaux sociaux, **vous n’avez pas strictement besoin d’un VPN** pour contourner des blocages.
+Taïwan bénéficie d’un des internets les plus libres au monde — pas de censure généralisée, vitesses rapides et droits numériques solides. Pour la navigation quotidienne, streaming, réseaux sociaux, **vous n’avez pas strictement besoin d’un VPN** pour gérer certains blocages.
 
 Cependant, il est **très utile** pour :
 - Protéger votre confidentialité sur Wi-Fi public (cafés, MRT, aéroports — cibles classiques des hackers).
@@ -1148,7 +1148,7 @@ Vous avez maintenant les astuces avancées pour tirer le max de votre VPN. Chois
 ### Différences entre « logiciels d’accès » et vrais VPN
 <a name="differences-between-access-software-and-vpns"></a>
 
-Les termes « logiciel d’accès » et « VPN » aident tous deux à contourner les restrictions, mais ils ont des buts et différences clés.
+Les termes « logiciel d’accès » et « VPN » peuvent tous deux aider dans des réseaux restreints, mais ils ont des buts et différences clés.
 
 #### 1. Logiciels d’accès (ex. Shadowsocks, Lantern, V2Ray)
 Outils spécialisés conçus principalement pour échapper à la censure dans réseaux très restreints. Ils masquent le trafic pour le faire ressembler à du HTTPS/web normal, rendant la détection/blocage plus dure que les VPN traditionnels.  
@@ -1825,7 +1825,7 @@ Les VPN sont puissants, mais pas parfaits. Voici les principaux inconvénients e
 
 2. **Déconnexions / Instabilité**  
    - **Problème** : Surcharge serveur, interférence FAI ou changements réseau.  
-   - **Solution** : Activez auto-reconnexion + kill switch. Changez serveurs/protocoles. Contactez support 24/7 pour tweaks config.
+   - **Solution** : Activez auto-reconnexion + kill switch. Changez serveurs/protocoles. Contactez le support 24/7 pour obtenir des réglages adaptés à votre connexion.
 
 3. **Problèmes compatibilité appareils/plateformes**  
    - **Problème** : Certains VPN manquent apps natives Linux, routeurs, smart TV.  
