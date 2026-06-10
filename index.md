@@ -240,7 +240,7 @@ Après avoir testé des centaines de VPN au fil des années, voici mes recommand
 - Prix juste avec un excellent rapport qualité-prix
 
 <a name="strongvpn-recommendation"></a>
-### 1. [StrongVPN – Meilleur rapport qualité-prix](https://strongvpn.com/fr/?tr_aid=60d96b5810e50&chan=w_github_fr&data1=fanqiang&data2=title)
+### 1. [StrongVPN – Meilleur rapport qualité-prix](https://strongvpn.com/fr/?tr_aid=60d96b5810e50&chan=w_github_fr&data1=fr-body&data2=title)
 
 <img src="./image/speed_test/strong_main.png" alt="Test de vitesse StrongVPN" width="400"/>
 
@@ -412,7 +412,7 @@ Comme ExpressVPN, Surfshark est basé aux Pays-Bas (très favorable à la confid
 Un des gros avantages de **StrongVPN** : support complet des paiements internationaux — idéal si vous avez une carte étrangère, PayPal d’un autre pays, ou voulez de la flexibilité. (FlowVPN est une excellente alternative si besoin.)
 
 ### Étape 1 : Accédez à notre offre exclusive
-Cliquez sur notre lien spécial pour la meilleure réduction : [StrongVPN](https://strongvpn.com/fr/?tr_aid=60d96b5810e50&chan=w_github_fr&data1=fanqiang&data2=title) → Cliquez « Start Now » (voir capture ci-dessous).  
+Cliquez sur notre lien spécial pour la meilleure réduction : [StrongVPN](https://strongvpn.com/fr/?tr_aid=60d96b5810e50&chan=w_github_fr&data1=fr-body&data2=title) → Cliquez « Start Now » (voir capture ci-dessous).  
 <img src="./image/speed_test/strong_main.png" alt="Page d'accueil StrongVPN" width="1000"/>
 
 ### Étape 2 : Contournez les problèmes de connexion/achat
@@ -431,7 +431,7 @@ Descendez à la section paiement. Sélectionnez les options internationales — 
 Que vous soyez sur Android ou iOS, installer StrongVPN sur votre téléphone prend quelques minutes — quelques clics et vous êtes protégé partout.
 
 #### 1. Achetez & Créez votre compte StrongVPN
-Allez sur notre lien exclusif : [StrongVPN](https://strongvpn.com/fr/?tr_aid=60d96b5810e50&chan=w_github_fr&data1=fanqiang&data2=title), choisissez votre plan (1 an pour le meilleur prix), et inscrivez-vous.
+Allez sur notre lien exclusif : [StrongVPN](https://strongvpn.com/fr/?tr_aid=60d96b5810e50&chan=w_github_fr&data1=fr-body&data2=title), choisissez votre plan (1 an pour le meilleur prix), et inscrivez-vous.
 
 #### 2. Installer & Se connecter sur Android
 - Ouvrez le Google Play Store, cherchez « StrongVPN ».
@@ -872,7 +872,7 @@ Ces tutoriels pas à pas vous guident pour télécharger, installer et connecter
 Après achat via notre lien, connectez-vous au dashboard compte pour télécharger.
 
 #### Étape 1 : Téléchargez depuis le site officiel
-Allez sur [StrongVPN](https://strongvpn.com/fr/?tr_aid=60d96b5810e50&chan=w_github_fr&data1=fanqiang&data2=title) (ou dashboard après inscription). Cliquez « StrongVPN Client » — détection auto OS (exemple Windows). Sélectionnez manuellement si besoin.  
+Allez sur [StrongVPN](https://strongvpn.com/fr/?tr_aid=60d96b5810e50&chan=w_github_fr&data1=fr-body&data2=title) (ou dashboard après inscription). Cliquez « StrongVPN Client » — détection auto OS (exemple Windows). Sélectionnez manuellement si besoin.  
 <img src="./image/strong/s6.PNG" alt="Page téléchargement StrongVPN" width="1000"/>
 
 #### Étape 2 : Installez l’app
@@ -1377,7 +1377,7 @@ Nous recommandons **ExpressVPN** et **StrongVPN** comme top gaming — testés a
 Que vous grindiez ranked ou testiez nouveaux titres, ces VPN vous donnent l’avantage. Cliquez ci-dessous et commencez à dominer !
 
 - [Essayer ExpressVPN maintenant](https://www.expressvpn.com/top/homepage?xvcid=yKMwqFWTfxyKWsB3AWwmhXdXUkpTX-RFKSOyxU0&shareid=&irclickid=yKMwqFWTfxyKWsB3AWwmhXdXUkpTX-RFKSOyxU0&irgwc=1&afsrc=1)
-- [Essayer StrongVPN maintenant](https://strongvpn.com/fr/?tr_aid=60d96b5810e50&chan=w_github_fr&data1=fanqiang&data2=title)
+- [Essayer StrongVPN maintenant](https://strongvpn.com/fr/?tr_aid=60d96b5810e50&chan=w_github_fr&data1=fr-body&data2=title)
 
 *Note : Si vous achetez via ces liens, nous pouvons toucher une commission — mais on ne recommande que ce qu’on a testé personnellement et en qui on a 100 % confiance.*
 
@@ -1511,7 +1511,7 @@ Voici votre guide simple pour briser les barrières et débloquer le divertissem
 ### Étape 1 : Choisissez le bon VPN pour streaming
 Nous nous concentrons sur les performers prouvés qui débloquent Netflix, Disney+, Hulu, BBC iPlayer et plus de façon constante.
 
-- **[StrongVPN](https://strongvpn.com/fr/?tr_aid=60d96b5810e50&chan=w_github_fr&data1=fanqiang&data2=title)** : Apprécié pour performances béton et simplicité. 950+ serveurs dans 70+ régions — parfait partout, excellent rapport qualité-prix et support paiements internationaux.
+- **[StrongVPN](https://strongvpn.com/fr/?tr_aid=60d96b5810e50&chan=w_github_fr&data1=fr-body&data2=title)** : Apprécié pour performances béton et simplicité. 950+ serveurs dans 70+ régions — parfait partout, excellent rapport qualité-prix et support paiements internationaux.
 - **[ExpressVPN](https://www.expressvpn.com/top/homepage?xvcid=yKMwqFWTfxyKWsB3AWwmhXdXUkpTX-RFKSOyxU0&shareid=&irclickid=yKMwqFWTfxyKWsB3AWwmhXdXUkpTX-RFKSOyxU0&irgwc=1&afsrc=1)** : Le « roi de la vitesse » — 3 000+ serveurs dans 94 pays, protocole Lightway éclair, constance inégalée pour 4K sans buffering.
 
 ![Aperçu StrongVPN](./image/speed_test/strong_main.png)  
@@ -1642,7 +1642,7 @@ Voici votre guide simple pour briser les barrières et débloquer le divertissem
 ### Étape 1 : Choisissez le bon VPN pour streaming
 Nous nous concentrons sur les performers prouvés qui débloquent Netflix, Disney+, Hulu, BBC iPlayer et plus de façon constante.
 
-- **[StrongVPN](https://strongvpn.com/fr/?tr_aid=60d96b5810e50&chan=w_github_fr&data1=fanqiang&data2=title)** : Apprécié pour performances béton et simplicité. 950+ serveurs dans 70+ régions — parfait partout, excellent rapport qualité-prix et support paiements internationaux.
+- **[StrongVPN](https://strongvpn.com/fr/?tr_aid=60d96b5810e50&chan=w_github_fr&data1=fr-body&data2=title)** : Apprécié pour performances béton et simplicité. 950+ serveurs dans 70+ régions — parfait partout, excellent rapport qualité-prix et support paiements internationaux.
 - **[ExpressVPN](https://go.expressvpn.com/c/3828265/1634752/16063)** : Le « roi de la vitesse » — 3 000+ serveurs dans 94 pays, protocole Lightway éclair, constance inégalée pour 4K sans buffering.
 
 ![Aperçu StrongVPN](./image/speed_test/strong_main.png)  
