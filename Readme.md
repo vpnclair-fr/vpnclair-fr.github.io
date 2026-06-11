@@ -76,9 +76,9 @@ En France, le choix d'un VPN dépend surtout de vos plateformes, de vos appareil
 
 ## Coupe du Monde 2026 : VPN pour voyage, streaming et tirage au sort
 
-![Stade de football de nuit](https://upload.wikimedia.org/wikipedia/commons/1/1d/Worldcup_2010_Soccer_Stadium_at_night_-_panoramio.jpg)
+![Stade de football de nuit](./image/worldcup/world-cup-2026-stadium.png)
 
-*Photo: ngrund, CC BY 3.0, via Wikimedia Commons.*
+*Illustration created for this site.*
 
 La Coupe du Monde 2026 se déroule du 11 juin au 19 juillet aux États-Unis, au Canada et au Mexique. Pour les lecteurs français, l'enjeu n'est pas seulement le streaming : voyages, Wi-Fi d'hôtel, aéroport, bars, comptes de billetterie, e-mail et paiements deviennent plus sensibles pendant un grand événement.
 
