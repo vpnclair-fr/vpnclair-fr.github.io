@@ -26,7 +26,7 @@ Les plateformes de streaming bloquent parfois certaines adresses IP de VPN. Il f
 |---|---|---|
 | Bon rapport qualité/prix | [StrongVPN](https://strongvpn.com/fr/?tr_aid=60d96b5810e50&chan=w_github_fr&data1=fr-home&data2=hero) | Prix annuel raisonnable, apps simples et performances suffisantes pour usage quotidien. |
 | Streaming premium et simplicité | [ExpressVPN](https://go.expressvpn.com/c/3828265/1634752/16063) | Application très facile, bonne stabilité et support adapte aux debutants. |
-| Famille et beaucoup d'appareils | [Surfshark](https://surfy-chinaz.com/fr/deals?coupon=surfsharkdeal&transaction_id=102bf6a775238fcbd88327845dfa5b&offer_id=323&affiliate_id=5585&utm_source=Affiliates&utm_medium=5585&utm_campaign=affiliate&recurring_goal_id=312) | Connexions illimitées pour smartphones, ordinateurs, tablettes et TV. |
+| Famille et beaucoup d'appareils | [Surfshark](https://get.surfshark.net/aff_c?offer_id=323&aff_id=5585&source=w_github&aff_sub=fr) | Connexions illimitées pour smartphones, ordinateurs, tablettes et TV. |
 | Tester avant de choisir | [FlowVPN](https://www.flowvpx.com/sign-up/?locale=fr&special=FREETRIAL&r=35-890485.w_github) | Pratique pour vérifier la vitesse et les services depuis votre réseau. |
 
 ## Les vrais cas d'usage en français
@@ -51,7 +51,7 @@ Les offres VPN affichent souvent un prix mensuel bas, mais le paiement se fait s
 |---|---|---|---|
 | [StrongVPN](https://strongvpn.com/fr/?tr_aid=60d96b5810e50&chan=w_github_fr&data1=fr-home&data2=price) | Prix et simplicité | Usage quotidien, voyage, Wi-Fi public | Tester vos plateformes pendant la période de remboursement. |
 | [ExpressVPN](https://go.expressvpn.com/c/3828265/1634752/16063) | Expérience premium | Débutants, streaming, voyageurs frequents | Prix plus élevé. |
-| [Surfshark](https://surfy-chinaz.com/fr/deals?coupon=surfsharkdeal&transaction_id=102bf6a775238fcbd88327845dfa5b&offer_id=323&affiliate_id=5585&utm_source=Affiliates&utm_medium=5585&utm_campaign=affiliate&recurring_goal_id=312) | Appareils illimités | Famille, colocation, multi-écrans | Meilleur prix souvent lié à un engagement long. |
+| [Surfshark](https://get.surfshark.net/aff_c?offer_id=323&aff_id=5585&source=w_github&aff_sub=fr) | Appareils illimités | Famille, colocation, multi-écrans | Meilleur prix souvent lié à un engagement long. |
 | [FlowVPN](https://www.flowvpx.com/sign-up/?locale=fr&special=FREETRIAL&r=35-890485.w_github) | Essai court | Vérification rapide avant achat | Moins connu; tester dans votre pays et sur vos appareils. |
 
 ## Plateformes et scénarios à tester avant de payer
@@ -63,7 +63,7 @@ En France, le choix d'un VPN dépend surtout de vos plateformes, de vos appareil
 | TV française depuis l'étranger | france.tv, TF1+, M6+, Molotov, Canal+ | [StrongVPN](https://strongvpn.com/fr/?tr_aid=60d96b5810e50&chan=w_github_fr&data1=fr-home&data2=local_platforms) / [ExpressVPN](https://go.expressvpn.com/c/3828265/1634752/16063) |
 | Sport et direct | Canal+, DAZN, beIN Sports, chaînes locales | ExpressVPN pour stabilité; StrongVPN pour prix |
 | Catalogues internationaux | Netflix, Disney+, Prime Video, Max | ExpressVPN / Surfshark |
-| Famille et multi-écrans | smartphone, ordinateur, tablette, TV connectée | [Surfshark](https://surfy-chinaz.com/fr/deals?coupon=surfsharkdeal&transaction_id=102bf6a775238fcbd88327845dfa5b&offer_id=323&affiliate_id=5585&utm_source=Affiliates&utm_medium=5585&utm_campaign=affiliate&recurring_goal_id=312) |
+| Famille et multi-écrans | smartphone, ordinateur, tablette, TV connectée | [Surfshark](https://get.surfshark.net/aff_c?offer_id=323&aff_id=5585&source=w_github&aff_sub=fr) |
 | Essai court | vérifier vitesse, connexion et compatibilité | [FlowVPN](https://www.flowvpx.com/sign-up/?locale=fr&special=FREETRIAL&r=35-890485.w_github) |
 
 ### Plan de test pendant la garantie
@@ -88,9 +88,13 @@ ExpressVPN indique être Official Supporter de la FIFA World Cup 2026 et organis
 |---|---|---|
 | Campagne officielle et tirage au sort | [Offre ExpressVPN Coupe du Monde 2026](https://go.expressvpn.com/c/3828265/1481161/16063) | Meilleur angle pour le message Official Supporter |
 | VPN payant plus abordable pour voyager | [StrongVPN](https://strongvpn.com/fr/?tr_aid=60d96b5810e50&chan=w_github_fr&data1=fr-home&data2=worldcup_block) | Bon choix pour Wi-Fi public, voyage et usage quotidien |
-| Plusieurs appareils à la maison | [Surfshark](https://surfy-chinaz.com/fr/deals?coupon=surfsharkdeal&transaction_id=102bf6a775238fcbd88327845dfa5b&offer_id=323&affiliate_id=5585&utm_source=Affiliates&utm_medium=5585&utm_campaign=affiliate&recurring_goal_id=312) | Utile pour smartphone, ordinateur, tablette et TV |
+| Plusieurs appareils à la maison | [Surfshark](https://get.surfshark.net/aff_c?offer_id=323&aff_id=5585&source=w_github&aff_sub=fr) | Utile pour smartphone, ordinateur, tablette et TV |
 
 Avant les matchs, testez votre VPN sur Wi-Fi domestique, 4G/5G et Wi-Fi public. Ouvrez votre app de streaming, vérifiez DNS/WebRTC et regardez 15-30 minutes pour juger la stabilité.
+
+## Note sur les prix et la devise locale
+
+Les prix VPN varient selon le pays, les taxes, la devise, la durée et la campagne. Si votre devise locale n'est pas affichée, utilisez l'équivalent USD seulement comme repère et vérifiez le total au checkout. Comparez prix total, renouvellement, garantie de remboursement et nombre d'appareils.
 
 ## Tests de vitesse VPN mis à jour chaque jour
 
@@ -149,7 +153,7 @@ Vous trouverez ci-dessous les actualités VPN, les guides d'achat, les tutoriels
 ### 1. [Bases VPN](#basics-of-unrestricted-access)
 ### 2. [Fonctionnalités clés des meilleurs VPN mondiaux – Résumé](#key-features-of-recommended-global-vpns)
 #### 2.1 [StrongVPN – Meilleur rapport qualité-prix](#strongvpn-recommendation)
-#### 2.2 [ExpressVPN – 12 mois + 3 mois gratuits](#expressvpn-12-months-+-3-months-free)
+#### 2.2 [ExpressVPN – offre officielle et prix au checkout](#expressvpn-12-months-+-3-months-free)
 #### 2.3 [Surfshark – Connexions illimitées sur tous vos appareils](#surfshark-unlimited-connections)
 #### 2.4 [FlowVPN – Essai gratuit 2 jours](#flowvpn-2-day-free-trial)
 #### 2.5 [Analyse & Comparaison des politiques de confidentialité des top VPN](#privacy-policy-comparison-vpn-providers)
@@ -309,7 +313,7 @@ Sur une connexion domestique classique (100–500 Mbps), la différence avec les
 | Politique de confidentialité     | No-logs (stricte)                          |
 
 <a name="expressvpn-12-months-+-3-months-free"></a>
-### 2. [ExpressVPN – 12 mois + 3 mois gratuits](https://www.expressvpn.com/top/homepage?xvcid=yKMwqFWTfxyKWsB3AWwmhXdXUkpTX-RFKSOyxU0&shareid=&irclickid=yKMwqFWTfxyKWsB3AWwmhXdXUkpTX-RFKSOyxU0&irgwc=1&afsrc=1)
+### 2. [ExpressVPN – offre officielle et prix au checkout](https://www.expressvpn.com/top/homepage?xvcid=yKMwqFWTfxyKWsB3AWwmhXdXUkpTX-RFKSOyxU0&shareid=&irclickid=yKMwqFWTfxyKWsB3AWwmhXdXUkpTX-RFKSOyxU0&irgwc=1&afsrc=1)
 
 <img src="./image/speed_test/w_d.png" alt="Résultats tests de vitesse ExpressVPN" width="1000"/>
 
@@ -332,7 +336,7 @@ Le seul vrai inconvénient ? Son prix premium — mais les performances le justi
 - Accepte plusieurs devises, dont Bitcoin
 - Chiffrement leader du marché (AES-256-GCM, protocole Lightway)
 
-**Offre exclusive** : Inscrivez-vous via notre lien et obtenez **3 mois gratuits supplémentaires** sur le plan annuel (15 mois au total, soit ~6,67 $/mois en moyenne). Ils acceptent cartes bancaires, PayPal, Bitcoin et plus.  
+**Note prix** : ExpressVPN affiche aujourd'hui des offres qui varient selon la durée, le pays, la devise et le palier choisi. Avant de payer, vérifiez le prix en euros, les taxes, le renouvellement et la garantie 30 jours sur le checkout officiel. Cartes bancaires, PayPal, Bitcoin et autres moyens peuvent être disponibles selon la région.  
 Astuce pro : Téléchargez l’app sur Android ou iOS d’abord pour un **essai gratuit 7 jours** (pas de carte requise dans certaines régions). Combinez ça avec la garantie 30 jours complète, et vous testez ExpressVPN totalement sans risque. Annulation simple — pas de questions, remboursement intégral si ça ne vous convient pas.
 
 | Fonctionnalité                   | ExpressVPN                                             |
@@ -350,7 +354,7 @@ Astuce pro : Téléchargez l’app sur Android ou iOS d’abord pour un **essai 
 
 
 <a name="surfshark-unlimited-connections"></a>
-### 3. [Surfshark – Connexions illimitées sur tous vos appareils](https://surfy-chinaz.com/fr/deals?coupon=surfsharkdeal&transaction_id=102bf6a775238fcbd88327845dfa5b&offer_id=323&affiliate_id=5585&utm_source=Affiliates&utm_medium=5585&utm_campaign=affiliate&recurring_goal_id=312)
+### 3. [Surfshark – Connexions illimitées sur tous vos appareils](https://get.surfshark.net/aff_c?offer_id=323&aff_id=5585&source=w_github&aff_sub=fr)
 
 <img src="./image/surfshark/1-1.png" alt="Résultats tests de vitesse Surfshark" width="1000"/>
 
@@ -372,7 +376,7 @@ Surfshark excelle au déblocage : Netflix dans ~20 catalogues (US, UK, Japon, Fr
 - Plus de 4 500 serveurs dans 100 pays avec connexions simultanées illimitées
 - **Appareils illimités** — protégez toute la famille (téléphones, ordis, TV, etc.)
 - Garantie 30 jours satisfait ou remboursé
-- Prix le plus bas vu : ~2,30 $/mois sur le plan 2 ans
+- Prix long terme souvent bas en équivalent USD, mais le montant en euros dépend de la campagne, des taxes et du checkout
 - Surfshark Nexus (fonctionnalités avancées : Rotating IP pour changer d’IP toutes les quelques minutes sans déconnexion, plus d’outils ajoutés régulièrement)
 
 <a name="flowvpn-2-day-free-trial"></a>
@@ -477,8 +481,8 @@ Cliquez ici : [ExpressVPN Deal](https://www.expressvpn.com/top/homepage?xvcid=yK
 | 6 Mois                          | 59,95 $   | 9,99 $                      |
 | 12 Mois (+3 Mois gratuits)      | 99,95 $   | ~6,67 $ (avec bonus)        |
 
-### Étape 2 : Bloquez l’offre 12 mois + 3 mois gratuits
-Vous verrez l’offre canon tout de suite : « Achetez 12 mois, obtenez 3 mois gratuits » — payez pour 12, utilisez 15 au total. (Astuce renouvellement : Nouvel email + notre lien pour des réductions répétées.)  
+### Étape 2 : vérifiez l'offre officielle au checkout
+La page officielle peut afficher plusieurs durées et paliers. Avant de payer, vérifiez le prix total, la devise, les taxes, le renouvellement et la garantie de remboursement.  
 <img src="./image/exp/1-2.PNG" alt="Offre spéciale ExpressVPN" width="1000"/>
 
 ### Étape 3 : Entrez email & détails paiement
@@ -491,7 +495,7 @@ Utilisez un email valide (pour login + vérif). Choisissez votre moyen de paieme
 Une fois le compte créé, la config prend moins de 5 minutes sur n’importe quel appareil. Voici comment vous protéger rapidement.
 
 #### 1. Acheter & Créer un compte ExpressVPN
-Utilisez notre lien : [ExpressVPN](https://www.expressvpn.com/top/homepage?xvcid=yKMwqFWTfxyKWsB3AWwmhXdXUkpTX-RFKSOyxU0&shareid=&irclickid=yKMwqFWTfxyKWsB3AWwmhXdXUkpTX-RFKSOyxU0&irgwc=1&afsrc=1), choisissez votre plan (optez pour l’offre 15 mois), et créez votre compte.
+Utilisez notre lien : [ExpressVPN](https://www.expressvpn.com/top/homepage?xvcid=yKMwqFWTfxyKWsB3AWwmhXdXUkpTX-RFKSOyxU0&shareid=&irclickid=yKMwqFWTfxyKWsB3AWwmhXdXUkpTX-RFKSOyxU0&irgwc=1&afsrc=1), choisissez le plan actuel affiché au checkout, puis créez votre compte.
 
 #### 2. Installer & Se connecter sur PC (Windows/macOS)
 - Connectez-vous sur le site ExpressVPN, téléchargez l’app pour votre OS.
@@ -517,7 +521,7 @@ Les principales options, offres et étapes de configuration sont couvertes. Avan
 ## Surfshark – Guide achat rapide (offre connexions illimitées)
 
 ### Étape 1 : Accédez à l’offre exclusive
-Cliquez sur notre lien affilié spécial : [Surfshark – Connexions illimitées](https://surfy-chinaz.com/fr/deals?coupon=surfsharkdeal&transaction_id=102bf6a775238fcbd88327845dfa5b&offer_id=323&affiliate_id=5585&utm_source=Affiliates&utm_medium=5585&utm_campaign=affiliate&recurring_goal_id=312) → Appuyez sur « Get Surfshark » (voir le bouton sur la capture ci-dessous).  
+Cliquez sur notre lien affilié spécial : [Surfshark – Connexions illimitées](https://get.surfshark.net/aff_c?offer_id=323&aff_id=5585&source=w_github&aff_sub=fr) → Appuyez sur « Get Surfshark » (voir le bouton sur la capture ci-dessous).  
 <img src="./image/surfshark/1-1.png" alt="Page d'accueil Surfshark" width="1000"/>
 
 ### Étape 2 : Bloquez l’offre 2 ans canon
@@ -851,8 +855,8 @@ Le mode NoBorders/Camouflage de Surfshark gère la plupart des blocages, mais de
 4. **Protocole** : WireGuard → OpenVPN UDP.
 5. **Live chat** : Très réactif pour obtenir des réglages adaptés à votre connexion.
 
-### Expiration après 15 mois – Réutiliser la réduction ExpressVPN ?
-L’offre 12+3 mois gratuits est pour nouveaux comptes seulement — renouvellements au plein tarif.  
+### Avant de renouveler ExpressVPN : faut-il vérifier le prix ?
+Les offres changent avec le temps. Avant de renouveler, comparez le prix de renouvellement dans votre compte avec l'offre publique actuelle.  
 **Hack renouvellement pro (marche en 2026)** :
 1. Nouveau compte avec email frais (utilisez +alias comme votrenom+2@gmail.com ou ProtonMail).
 2. Utilisez notre lien : [ExpressVPN Deal](https://www.expressvpn.com/top/homepage?xvcid=yKMwqFWTfxyKWsB3AWwmhXdXUkpTX-RFKSOyxU0&shareid=&irclickid=yKMwqFWTfxyKWsB3AWwmhXdXUkpTX-RFKSOyxU0&irgwc=1&afsrc=1) pour la promo à nouveau.
@@ -1802,7 +1806,7 @@ BitTorrent (et autres P2P) est génial pour partage fichiers rapide, mais expose
    - Évitez trackers publics ; restez sur privés.  
    - Testez fuites : Vérifiez ipleak.net avec torrent actif.
 
-**Recommandé** : Commencez avec **[ExpressVPN – 12 mois + 3 gratuits](https://www.expressvpn.com/top/homepage?xvcid=yKMwqFWTfxyKWsB3AWwmhXdXUkpTX-RFKSOyxU0&shareid=&irclickid=yKMwqFWTfxyKWsB3AWwmhXdXUkpTX-RFKSOyxU0&irgwc=1&afsrc=1)** — optimisé P2P, kill switch, split tunneling, serveurs globaux pour pairs rapides.
+**Recommandé** : Commencez avec **[ExpressVPN – voir l'offre officielle actuelle](https://www.expressvpn.com/top/homepage?xvcid=yKMwqFWTfxyKWsB3AWwmhXdXUkpTX-RFKSOyxU0&shareid=&irclickid=yKMwqFWTfxyKWsB3AWwmhXdXUkpTX-RFKSOyxU0&irgwc=1&afsrc=1)** — optimisé P2P, kill switch, split tunneling et serveurs globaux; vérifiez le prix en euros, les taxes et le renouvellement au checkout.
 
 <a name="vpn-trends-and-future-predictions"></a>
 ## Tendances VPN & Prédictions futures (2026 et au-delà)
