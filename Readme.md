@@ -142,17 +142,20 @@ Dans la plupart des pays francophones, utiliser un VPN pour la sécurité et la 
 Vous trouverez ci-dessous les actualités VPN, les guides d'achat, les tutoriels d'installation et les sections détaillées par fournisseur.
 
 <!-- NEWS_START -->
-#### Articles Sélectionnés pour le 23 juin 2026
+#### 22 juin 2026 : actualités VPN, confidentialité et cybersécurité
+- **La vérification d'âge remet la confidentialité VPN au premier plan**: TechRadar rappelle que les utilisateurs au Royaume-Uni, en Australie et ailleurs doivent vérifier les audits, la politique no-log, le chiffrement, les appareils compatibles et les risques des VPN gratuits. [Source](https://www.techradar.com/vpn/vpn-privacy-security/how-to-choose-an-age-verification-vpn)
 
-- **Nouvelle faille VPN sur Android 16 confirmée—aucune solution de Google** : Une faille critique permettant de contourner les VPN a été confirmée sur Android 16 et aucune solution n'a encore été proposée par Google pour la corriger. [Source Forbes](https://news.google.com/rss/articles/CBMitgFBVV95cUxQQlBXLVB3ekNlcHJ2czlEOG82UHkxcHB4X2VMdWJtaHRfYjQwUmIwQmhxUE5BdG5QODNDTnRYbkwxRjJYWEk0NG52ZERXUjg2Zms2WThLTTR6YVBYZ05yRXVEeTl6dGRza05uYlhtcUt6OHpicWZFanVLdzJ3QXZPNm9Yc2kxM2hfdEtqVVp0eTdMcm40cnZveVFkdWVMaUtmUnlvYzhJcF9BNWJ3aHN5WE1VeVVkUQ?oc=5)
+#### 22 juin 2026 : les restrictions Telegram stimulent les VPN en Inde
+- **Les limitations de Telegram ont provoqué le plus grand pic de téléchargements VPN de 2026 en Inde**: Economic Times rapporte que de nombreux utilisateurs se sont tournés vers les VPN et des applications alternatives. [Source](https://m.economictimes.com/news/india/telegram-ban-in-india-triggered-biggest-vpn-download-surge-of-2026/articleshow/131909432.cms)
 
-- **Un important fournisseur de VPN pourrait quitter le Canada à cause d’un projet de loi** : Un des principaux fournisseurs de VPN envisage de quitter le Canada en raison d'une loi sur l'accès légal, suscitant des préoccupations quant à la confidentialité et à la cybersécurité. [Source Yahoo News Canada](https://news.google.com/rss/articles/CBMiekFVX3lxTE5TcklGQ0xYR0pVazdWTDZ5R0paN0VWMXF0c1A5dHZHckxCWjVNQTdoM0pUQW5FVzdZWnMxVVQ2bnJpOWZSSW5oTkFadjhvRV9jX2hDNV9ycWNNX1NxeVpWc21xaERlMzItTFdZWUI4dHd0aXJiUER3ZHNn?oc=5)
+#### 22 juin 2026 : offres VPN multi-appareils
+- **Une offre VPN à vie pour 15 appareils a attiré l'attention**: New York Post a couvert une promotion FastestVPN PRO; le prix doit être comparé à la confidentialité, au remboursement, à la vitesse et au support long terme. [Source](https://nypost.com/2026/06/22/shopping/lifetime-vpn-deal-protect-15-devices-with-fastestvpn/)
 
-- **Comment regarder Team Canada à l'IIHF 2026 gratuitement depuis n'importe où** : Découvrez comment suivre gratuitement et de n'importe où les performances de l'équipe canadienne de hockey lors des championnats du monde IIHF 2026. [Source Cybernews](https://news.google.com/rss/articles/CBMilwFBVV95cUxPanEyN2taWjZtZmJybXBiQ1FKWmFJd0lrMmRWT0RQYkhmREpMMjFjTjA1bDdjQUFKeFl1T2o2cFhTWlIwX3liVzFaald2TTc5VGVzRVpTVEtncFFjWmRQRVcxV2hmOWVoMkVsbERpdFpFY3BHODVuNUcya3FKQk5Fcjh4RUpaWHJUWTA3cmxmVHJDOHp4Vklv?oc=5)
+#### Rappel sécurité de la semaine
+- **Une fuite massive d'identifiants rappelle le danger de réutiliser ses mots de passe**: TechRadar a signalé une énorme base exposée contenant identifiants, mots de passe et URL de connexion. [Source](https://www.techradar.com/pro/security/the-credential-data-leak-is-dangerous-simply-because-of-its-enormous-size-experts-warn-colossal-breach-exposes-24-billion-records-including-personal-info)
 
-- **Comment streamer Star Plus depuis l'extérieur de l'Inde avec un VPN** : Apprenez à regarder les programmes de Star Plus de n'importe où dans le monde en utilisant un VPN. [Source TechRadar](https://news.google.com/rss/articles/CBMidkFVX3lxTE1DLVJ6UjlxaFJkQ1BfLXAwdlBZcmZMZWJoWlpUU2xWakhGdjhWU1NUQ3N1b0JmNEM1TTdERWIwRWNHVkJUZmt1eE1oVTc5dm9EMkxjR3lFOS1aSVJhRDlNV2pyclZvSzcxaGdVbk5keUE0THBtelE?oc=5)
-
-- **Où regarder Villarreal aujourd'hui ? Flux de football en direct et chaînes TV pour les prochains matchs** : Trouvez où suivre Villarreal avec les flux en direct et les chaînes TV disponibles pour les prochains matchs de l'équipe de football. [Source Goal.com](https://news.google.com/rss/articles/CBMikAFBVV95cUxQZmhoR0xiSWhOSUlzN2RfMlhUcUhJWXdhaTJfNXFPZ3RpNmxSLThGVGNMRnpIYTdweGFJY2wtYWFsUGlTOXpLOFpWY1Bkck1pT0x6cnRCV1JTekxOTnNkNTRxX3F6TUprajNUcktjUklMNTZ2M0VOY1ZMWHZsN2pUYmdvNGZDUE90MjZ1YmdJdS0?oc=5)
+#### Rappel confidentialité de la semaine
+- **Les IP internes des tunnels VPN peuvent devenir un signal de suivi sur iOS**: TechRadar rapporte que certaines IP internes de VPN peuvent aider au suivi entre applications. [Source](https://www.techradar.com/vpn/vpn-services/security-experts-reveal-proton-is-the-only-vpn-to-avoid-internal-tunnel-ip-fingerprinting-on-ios)
 <!-- NEWS_END -->
 
 
