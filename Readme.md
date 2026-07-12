@@ -68,6 +68,12 @@ En France, le choix d'un VPN dépend surtout de vos plateformes, de vos appareil
 | Famille et multi-écrans | smartphone, ordinateur, tablette, TV connectée | [Surfshark](https://get.surfshark.net/aff_c?offer_id=323&aff_id=5585&source=w_github&aff_sub=fr) |
 | Essai court | vérifier vitesse, connexion et compatibilité | [FlowVPN](https://www.flowvpx.com/sign-up/?locale=fr&special=FREETRIAL&r=35-890485.w_github) |
 
+## Raccourci streaming et Disney+
+
+Si votre vrai besoin est **Disney+, Netflix, Canal+, Molotov, myCANAL ou le sport en direct**, ne choisissez pas seulement le VPN le mieux classé dans une liste générale. Le bon choix dépend surtout du prix, de vos appareils, de votre plateforme et de la période de remboursement.
+
+Pour un test streaming avec un bon prix annuel, commencez par [StrongVPN](https://strongvpn.com/fr/?tr_aid=60d96b5810e50&chan=w_github_fr&data1=streaming&data2=disney_value). C'est le choix valeur pour essayer Disney+, Netflix, voyages et Wi-Fi public sans payer directement le prix premium d'ExpressVPN. Prenez ExpressVPN si vous voulez surtout une application très polie et un support premium. Prenez Surfshark si plusieurs écrans sont prioritaires. Utilisez FlowVPN si vous voulez d'abord un test court.
+
 ### Plan de test pendant la garantie
 
 1. Tester à la maison, en 4G/5G et sur un Wi-Fi public.
