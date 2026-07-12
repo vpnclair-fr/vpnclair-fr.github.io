@@ -37,6 +37,8 @@ Ne choisissez pas uniquement avec un classement général. Si vous voulez limite
 
 Si ce test fonctionne, vous n'avez pas forcément besoin de payer directement le prix premium d'ExpressVPN. ExpressVPN est préférable pour l'application et le support premium; Surfshark pour plusieurs écrans; FlowVPN pour vérifier rapidement la compatibilité avant un abonnement long.
 
+<img src="./image/speed_test/vpn_streaming_buyer_dashboard.png?v=20260712-dashboard" alt="Tableau de test VPN streaming avant achat en 30 minutes" width="1000"/>
+
 ## Les vrais cas d'usage en français
 
 ### 1. Streaming, sport et catalogues étrangers
