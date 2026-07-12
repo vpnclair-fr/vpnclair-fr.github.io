@@ -31,6 +31,12 @@ Les plateformes de streaming bloquent parfois certaines adresses IP de VPN. Il f
 
 **Conclusion d'achat rapide :** Si vous voulez un VPN payant pour un an, avec un prix clair et une utilisation simple pour le streaming, les voyages et le Wi-Fi public, commencez par [StrongVPN](https://strongvpn.com/fr/?tr_aid=60d96b5810e50&chan=w_github_fr&data1=fr-home&data2=buying_conclusion). Si vous acceptez de payer plus pour une application premium et une marque très connue, choisissez ExpressVPN. Pour une famille ou beaucoup d'appareils, Surfshark est plus logique. Si vous voulez d'abord vérifier votre réseau, votre pays ou votre plateforme de streaming, FlowVPN sert surtout de test court avant un abonnement long.
 
+## Test d'achat en 30 minutes
+
+Ne choisissez pas uniquement avec un classement général. Si vous voulez limiter le coût annuel, commencez par [StrongVPN](https://strongvpn.com/fr/?tr_aid=60d96b5810e50&chan=w_github_fr&data1=fr-home&data2=30min_test), installez l'application sur votre appareil principal, connectez-vous au serveur utile et testez pendant 15-20 minutes votre vraie plateforme : Disney+, Netflix, Canal+, Molotov, myCANAL, france.tv, TF1+, M6+ ou DAZN.
+
+Si ce test fonctionne, vous n'avez pas forcément besoin de payer directement le prix premium d'ExpressVPN. ExpressVPN est préférable pour l'application et le support premium; Surfshark pour plusieurs écrans; FlowVPN pour vérifier rapidement la compatibilité avant un abonnement long.
+
 ## Les vrais cas d'usage en français
 
 ### 1. Streaming, sport et catalogues étrangers
