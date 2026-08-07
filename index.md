@@ -28,6 +28,16 @@ Cette approche est moins spectaculaire qu'une promesse de déblocage permanent, 
 
 **Notre règle :** le meilleur VPN n'est pas celui qui promet zéro échec; c'est celui qui limite le temps et l'argent perdus lorsqu'un service précis cesse de fonctionner.
 
+## Test de récupération pour les plateformes françaises
+
+1. Fermez complètement l'application et changez de serveur dans le même pays.
+2. Testez le navigateur puis l'application TV ou mobile séparément.
+3. Vérifiez le compte, le moyen de paiement et la région du profil.
+4. Demandez au support une réponse pour Canal+, myCANAL, france.tv, TF1+, M6+ ou Molotov.
+5. Si l'usage principal reste impossible, utilisez le remboursement dans les délais.
+
+Commencez par StrongVPN pour la valeur annuelle, passez à ExpressVPN si le support et la simplicité justifient le prix, choisissez Surfshark pour de nombreux appareils, puis FlowVPN pour un essai court.
+
 ## Verdict rapide selon votre besoin
 
 | Besoin | VPN conseillé | Pourquoi |
@@ -453,7 +463,7 @@ FlowVPN offre des vitesses et une stabilité compétitives, souvent au niveau ou
 - Jusqu’à **10 connexions simultanées** (mise à jour récente)
 - Réductions spéciales étudiants et enseignants
 
-### Analyse & Comparaison des politiques de confidentialité des top VPN
+### Résumé confidentialité avant achat
 <a name="privacy-policy-comparison-vpn-providers"></a>
 
 Quand on choisit un VPN, la **politique de confidentialité** est l’un des points les plus cruciaux pour protéger vos données et votre identité réelle. Voici un comparatif clair côte à côte d’ExpressVPN, StrongVPN et Surfshark — les trois les plus recommandés dans ce guide.
@@ -465,7 +475,7 @@ Basé aux Îles Vierges britanniques (juridiction pro-confidentialité sans lois
 Basé aux États-Unis. Ils s’engagent aussi sur une politique **no-logs** pour l’activité et le trafic utilisateur. La juridiction US peut inquiéter à cause des potentielles demandes de données, mais StrongVPN affirme ne pas stocker de logs identifiants et ne se plie qu’aux ordres légaux valides (jamais problématique pour leurs utilisateurs en pratique).
 
 #### Surfshark
-Comme ExpressVPN, Surfshark est basé aux Pays-Bas (très favorable à la confidentialité, GDPR) et suit une politique **no-logs** stricte (auditée plusieurs fois indépendamment, dont par Deloitte en 2026). Ils ne collectent que le minimum (email, infos paiement) et ne loguent ni activité, ni IP, ni historique de navigation. Pas de partage avec des tiers sauf ordre judiciaire.
+Comme ExpressVPN, Surfshark est basé aux Pays-Bas (très favorable à la confidentialité, GDPR) et suit une politique **no-logs** stricte (auditée plusieurs fois indépendamment, dont par Deloitte en 2023 et 2025). Ils ne collectent que le minimum (email, infos paiement) et ne loguent ni activité, ni IP, ni historique de navigation. Pas de partage avec des tiers sauf ordre judiciaire.
 
 | Fonctionnalité                   | ExpressVPN                     | StrongVPN                  | Surfshark                      |
 |----------------------------------|--------------------------------|----------------------------|--------------------------------|
@@ -638,14 +648,14 @@ En périodes de restrictions élevées ou « sensibles » (événements politiqu
 
 Testez le fournisseur avec les services que vous utilisez vraiment, puis jugez sur vitesse réelle, qualité des apps et support.
 
-### Analyse & Comparaison des politiques de confidentialité des top VPN
+### Preuves de confidentialité et limites
 <a name="privacy-policy-comparison-vpn-providers"></a>
 
 Quand on choisit un VPN, la **politique de confidentialité** est LE point crucial pour protéger votre identité réelle, historique de navigation et données des regards indiscrets (FAI, gouvernements, hackers). Voici un comparatif sans filtre, à jour (2026) des trois mastodontes recommandés : **ExpressVPN**, **StrongVPN** et **Surfshark**. Les trois appliquent des politiques no-logs strictes, mais juridiction, audits et transparence font la différence.
 
 #### ExpressVPN
 Basé aux **Îles Vierges britanniques** (zéro loi de rétention obligatoire, hors alliances Five/Nine/Fourteen Eyes).  
-ExpressVPN a la **référence absolue** en no-logs — **23 audits indépendants publiés** au total, dont le dernier par KPMG (le 3e par eux) en 2026 confirmant que la tech TrustedServer (RAM-only) empêche tout logging d’activité, IP, historique, requêtes DNS ou timestamps. Audits publics + rapports de transparence réguliers. Si la confidentialité est non négociable, c’est la référence.
+ExpressVPN a la **référence absolue** en no-logs — **23 audits indépendants publiés** au total, dont une troisième évaluation KPMG publiée en 2025 confirmant que la tech TrustedServer (RAM-only) empêche tout logging d’activité, IP, historique, requêtes DNS ou timestamps. Audits publics + rapports de transparence réguliers. Si la confidentialité est non négociable, c’est la référence.
 
 #### StrongVPN
 Basé aux **États-Unis** (alliance Five Eyes, risque potentiel de demandes légales).  
@@ -653,14 +663,14 @@ StrongVPN applique une politique **zéro logging** claire — pas de traçage ni
 
 #### Surfshark
 Basé aux **Pays-Bas** (GDPR fort, lois pro-confidentialité, hors surveillance massive pour logs).  
-Surfshark maintient une politique no-logs béton — audits indépendants multiples (dont Deloitte en 2026 confirmant qu’ils ne surveillent ni stockent l’activité en ligne). Ils ne gardent que le minimum (email + paiement) et effacent les timestamps après 15 min. Rapports de transparence trimestriels montrent zéro donnée utile remise aux autorités. Excellent équilibre privacy + prix.
+Surfshark maintient une politique no-logs béton — audits indépendants multiples (dont Deloitte en 2023 et 2025 confirmant qu’ils ne surveillent ni stockent l’activité en ligne). Ils ne gardent que le minimum (email + paiement) et effacent les timestamps après 15 min. Rapports de transparence trimestriels montrent zéro donnée utile remise aux autorités. Excellent équilibre privacy + prix.
 
 | Fonctionnalité                   | ExpressVPN                              | StrongVPN                           | Surfshark                               |
 |----------------------------------|-----------------------------------------|-------------------------------------|-----------------------------------------|
 | Juridiction                      | Îles Vierges britanniques               | États-Unis                          | Pays-Bas                                |
 | Logs navigation/activité/IP      | Non (no-logs strict, 23+ audits)        | Non (no-logs strict)                | Non (no-logs strict, multiples audits)  |
 | Partage données avec tiers       | Non, sauf ordre légal valide            | Non, sauf ordre légal valide        | Non, sauf ordre légal valide            |
-| Audits indépendants (récents)    | Oui (KPMG 2026, en continu)             | Non publics récents                 | Oui (Deloitte 2026 + autres)            |
+| Preuve externe récente            | KPMG 2025                               | Vérifier les preuves publiques actuelles | Deloitte 2025                       |
 | Rapports de transparence         | Oui (réguliers)                         | Non                                 | Oui (trimestriels)                      |
 
 **En résumé** : Les trois protègent très bien. Pour la juridiction la plus friendly + audits massifs, ExpressVPN ou Surfshark. StrongVPN reste fiable et économique si le prix prime. Vérifie toujours la politique actuelle sur leur site pour les détails complets.
