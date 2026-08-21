@@ -193,6 +193,14 @@ Vous trouverez ci-dessous les actualités VPN, les guides d'achat, les tutoriels
 <!-- NEWS_END -->
 
 
+## Guide pratique pour la télévision française à l'étranger
+
+TF1+, France.tv, M6+, Canal+ et Molotov n'appliquent pas toujours les mêmes règles. La portabilité dans l'Union européenne, le pays du compte, les cookies et l'appareil peuvent compter autant que l'adresse IP.
+
+- **Diagnostic complet :** [Regarder la TV française à l'étranger avec un VPN : tests, appareils et erreurs](./vpn-tv-francaise-etranger/)
+
+Le guide ne promet pas qu'un serveur fonctionnera indéfiniment. Il propose un protocole de test vérifiable et conserve l'ordre éditorial du site : StrongVPN, ExpressVPN, Surfshark, FlowVPN.
+
 ## Navigation du contenu
 
 ### 1. [Bases VPN](#basics-of-unrestricted-access)
