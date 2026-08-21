@@ -28,6 +28,18 @@ Cette approche est moins spectaculaire qu'une promesse de déblocage permanent, 
 
 **Notre règle :** le meilleur VPN n'est pas celui qui promet zéro échec; c'est celui qui limite le temps et l'argent perdus lorsqu'un service précis cesse de fonctionner.
 
+## Trois niveaux de preuve au lieu d'une promesse globale
+
+Un débit mesuré, une condition commerciale et l'accès à une plateforme ne constituent pas la même preuve. Nous les séparons pour éviter de transformer un bon résultat de vitesse en garantie de streaming.
+
+| Niveau de preuve | Ce que nous vérifions | Comment l'utiliser |
+|---|---|---|
+| Mesuré par ce projet | Graphique daté et comparaison répétée des quatre fournisseurs | Comparez la performance relative récente, sans supposer le même débit sur votre connexion. |
+| Confirmé au paiement | Total, durée, taxes, renouvellement, remboursement et moyen de paiement | Vérifiez le montant final en EUR ou dans votre devise avant de payer. |
+| Testé dans votre environnement | Canal+, myCANAL, france.tv, TF1+, M6+, Molotov, TV connectée et Wi-Fi de voyage | Testez votre appareil et votre service pendant 15 à 20 minutes, puis vérifiez la procédure de sortie. |
+
+Notre différence n'est donc pas de promettre plus que les autres. Elle consiste à indiquer précisément ce qui a été mesuré, ce qui vient du fournisseur et ce qui doit encore réussir chez vous.
+
 ## Test de récupération pour les plateformes françaises
 
 1. Fermez complètement l'application et changez de serveur dans le même pays.
