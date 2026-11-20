@@ -20,9 +20,5 @@ buttons:
   github_hide: true
 
 permalink: /:path/
-
-collections:
-  fr:
-    output: true
-  en:
-    output: true
+exclude:
+  - tw
